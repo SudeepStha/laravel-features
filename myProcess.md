@@ -5,7 +5,7 @@
 Created new project.
 composer create-project laravel/laravel project-name
 
-# For basic authentication ui (1.Authentication branch)
+# For basic authentication ui
 composer require laravel/ui
 php artisan ui bootstrap --auth
 (Bootstrap scaffolding installed successfully.)
