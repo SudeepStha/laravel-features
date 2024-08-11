@@ -12,3 +12,7 @@ php artisan ui bootstrap --auth
 (Authentication scaffolding generated successfully.)
 npm install
 npm run dev
+
+# Installing modules
+https://nwidart.com/laravel-modules/v1/installation-and-setup
+
